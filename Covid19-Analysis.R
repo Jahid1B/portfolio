@@ -1,3 +1,14 @@
+01-# cleaned up death column
+02-## AGE # claim: people who die are older
+03-# Statistical significance test in 95% confidence label
+04-# confidence label , P- value analysis
+05-##Gende # Claim - Gender has no effect
+06-#Statistical significance test in 99% confidence label
+07-# confidence label , P- value analysis
+
+------------------------ xxx ------------------------------------
+------------------------ xxx ------------------------------------
+
 rm(list = ls())
 library(Hmisc)
 data <- read.csv("C:/Users/Jahid/Downloads/COVID19_line_list_data.csv")
